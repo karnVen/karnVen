@@ -1,5 +1,17 @@
-<h2 align="left">Hi 👋! My name is karnVen and I'm a T-Shaped Developer, from India</h2>
+<h1 align="center">Hi, I'm KarnVen 👋</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=3398DB&center=true&vCenter=true&width=435&lines=T-Shaped+Full-Stack+Developer;AI+%26+Automation+Enthusiast;Creative+Problem+Solver;Hackathon+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+A bit more about me:
+
+* 👨‍💻 I'm a **Full-Stack Developer** building end-to-end applications with a focus on clean code and great user experiences.
+* 🤖 I love architecting **AI Agents** and creating intricate **n8n workflows** to automate tasks and boost productivity.
+* 🏆 I'm an avid **hackathon participant** and a firm believer in learning by doing. I thrive under pressure and enjoy collaborating to bring ideas to life.
+* 🌱 Beyond the keyboard, I'm a lifelong learner. You can find me reading a new book, practicing calisthenics, learning a new song on the guitar, or experimenting in the kitchen.
 ###
 
 <br clear="both">
