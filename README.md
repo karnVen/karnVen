@@ -60,6 +60,12 @@
 </div>
 
 ###
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=karnVen.karnVen&"  />
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karnVen/karnVen/output/pacman-contribution-graph-dark.svg">
