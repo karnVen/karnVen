@@ -1,17 +1,14 @@
-name: Generate pacman animation
+name: Generate snake animation
 
 on:
-  # Run once a day at midnight UTC
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
 
-  # Run when you push to the main branch
+  workflow_dispatch:
+
   push:
     branches:
-      - main
-
-  # Allow running it manually from the Actions tab
-  workflow_dispatch:
+    - main
 
 jobs:
   generate:
@@ -21,24 +18,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Step 1: Check out your repository
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      # Step 2: Generate the pacman SVG file
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark
 
-      # Step 3: Create the output directory and move the file
-      - name: Create dist directory and move file
-        run: |
-          mkdir -p dist
-          mv pacman-contribution-graph.svg dist/
 
-      # Step 4: Push the generated file to the output branch
-      - name: Push pacman-contribution-graph.svg to the output branch
+      - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
