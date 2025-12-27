@@ -21,7 +21,7 @@ A bit more about me:
   
   <img src="https://github-readme-phi-indol.vercel.app/api/top-langs?username=karnVen&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&custom_title=Code%20in%20Common" height="160" alt="languages graph" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karnVen&theme=radical" height="150" alt="profile details" />  
+<img src="https://streak-er5e.vercel.app/?user=karnVen&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
 ###
