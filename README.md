@@ -56,15 +56,11 @@ A bit more about me:
     <td valign="top" width="40%">
       <img src="https://streak-stats.demolab.com?user=karnVen&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" />
       <br/><br/>
-       <a href="https://www.linkedin.com/in/karnven">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:onemonth06@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://x.com/karnVen">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
+      <div align="center">
+     <a href="https://www.linkedin.com/in/karnven"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://x.com/karnven"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:onemonth06.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+      </div>
       <br/> <br/>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zMXk3bTNiY3dleXBhbGZyMWlzcWZhaHU0eWllaHZqeWFpbnFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif"  alt="coding gif" />
     </td>
