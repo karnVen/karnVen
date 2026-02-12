@@ -43,7 +43,7 @@ A bit more about me:
       <h2>Projects</h2>
       <ul>
         <li>
-          🤖 <a href="https://github.com/karnVen/GitPost"><b>GitPost</b></a> - Turn git push into clout; your automated LinkedIn hype-man
+          🤖 <a href="https://github.com/karnVen/GitPost"><b>GitPost</b></a> - Turn git push into clout; my automated LinkedIn hype-man
         </li>
         <li>
           🎓 <a href="https://github.com/karnVen/EduVen"><b>EduVen</b></a>  - Because reading PDFs is boring; learn in a gamified world 
