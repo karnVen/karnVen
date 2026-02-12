@@ -49,7 +49,7 @@ A bit more about me:
           🎓 <a href="https://github.com/karnVen/EduVen"><b>EduVen</b></a>  - Because reading PDFs is boring; learn in a gamified world 
         </li>
         <li>
-  🧘‍♂️ <a href="https://github.com/karnVen/SavingsYogi"><b>SavingsYogi</b></a> - A startup building a next-gen personal finance platform
+  🧘‍♂️ <a href="https://github.com/karnVen/SavingsYogi"><b>SavingsYogi</b></a> - A startup building next-gen personal finance platform
 </li>
       </ul>
     </td>
