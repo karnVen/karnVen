@@ -35,6 +35,7 @@ A bit more about me:
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white" alt="Sanity" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" />
 </p>
 
 <table>
@@ -50,6 +51,9 @@ A bit more about me:
         </li>
         <li>
   🧘‍♂️ <a href="https://github.com/karnVen/SavingsYogi"><b>SavingsYogi</b></a> - A startup building next-gen personal finance platform
+</li>
+      <li>
+  📚 <a href="https://github.com/karnVen/HakiVen-Study-Tracker-"><b>HakiVen</b></a> - Track study habits with Firebase-powered dashboards
 </li>
       </ul>
     </td>
