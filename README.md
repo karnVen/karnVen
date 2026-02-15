@@ -57,7 +57,7 @@ A bit more about me:
 </li>
       
 <li>
-  🐚 <a href="https://github.com/karnVen/ShellOrigin"><b>ShellOrigin</b></a> - <code>kvsh_💀:></code> A custom Unix shell implementation built in C
+  🐚 <a href="https://github.com/karnVen/ShellOrigin"><b>ShellOrigin</b></a> - <code>kvsh_💀:></code> A custom Unix Shell built in C
 </li>
       </ul>
     </td>
