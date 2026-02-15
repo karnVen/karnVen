@@ -55,6 +55,10 @@ A bit more about me:
       <li>
   📚 <a href="https://github.com/karnVen/HakiVen-Study-Tracker-"><b>HakiVen</b></a> - Track study habits with Firebase-powered dashboards
 </li>
+      
+<li>
+  🐚 <a href="https://github.com/karnVen/ShellOrigin"><b>ShellOrigin</b></a> - <code>kvsh_💀:></code> A custom Unix shell implementation built in C
+</li>
       </ul>
     </td>
     <td valign="top" width="40%">
