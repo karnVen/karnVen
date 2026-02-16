@@ -59,6 +59,9 @@ A bit more about me:
 <li>
   🐚 <a href="https://github.com/karnVen/ShellOrigin"><b>ShellOrigin</b></a> - <code>kvsh_💀:></code> A custom Unix Shell built in C
 </li>
+<li>
+ 👾 <a href="https://github.com/karnVen/MemroyCard"><b>PokeMemo</b></a> - A memory test powered by the <b>Fisher-Yates Algorithm</b>
+</li>
       </ul>
     </td>
     <td valign="top" width="40%">
