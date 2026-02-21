@@ -47,20 +47,21 @@ A bit more about me:
       <h2>Projects</h2>
       <ul>
         <li>
+  🐚 <a href="https://github.com/karnVen/ShellOrigin"><b>kaiVen</b></a> - <code>$ gcc core.c ai.c -o kaiVen</code> #Built a raw Unix shell.
+</li>
+        <li>
           🤖 <a href="https://github.com/karnVen/GitPost"><b>GitPost</b></a> - Turn git push into clout; my automated LinkedIn hype-man
         </li>
+         <li>
+  🧘‍♂️ <a href="https://github.com/karnVen/SavingsYogi"><b>SavingsYogi</b></a> - A startup building next-gen personal finance platform
+</li>
         <li>
           🎓 <a href="https://github.com/karnVen/EduVen"><b>EduVen</b></a>  - Because reading PDFs is boring; learn in a gamified world 
         </li>
-        <li>
-  🧘‍♂️ <a href="https://github.com/karnVen/SavingsYogi"><b>SavingsYogi</b></a> - A startup building next-gen personal finance platform
-</li>
       <li>
   📚 <a href="https://github.com/karnVen/HakiVen-Study-Tracker-"><b>HakiVen</b></a> - Track study habits with Firebase-powered dashboards
 </li>
-      
-<li>
-  🐚 <a href="https://github.com/karnVen/ShellOrigin"><b>ShellOrigin</b></a> - <code>kvsh_💀:></code> A custom Unix Shell built in C
+
 </li>
 <li>
  👾 <a href="https://github.com/karnVen/MemroyCard"><b>PokeMemo</b></a> - A memory test powered by the <b>Fisher-Yates Algorithm</b>
