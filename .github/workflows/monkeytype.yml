@@ -1,21 +1,19 @@
-name: Monkeytype Stats
+name: Metrics
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 jobs:
-  publish:
+  github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: monkeytype-hub/monkeytype-readme@master
+      - uses: lowlighter/metrics@latest
         with:
-          username: karnVen
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          themes: 'serika_dark'
-          target-branch: output
-          # These exact names ensure ONLY the heatmap appears
-          show-personal-bests: false
-          show-leaderboard: false
-          show-chart: true
-        env:
-          MONKEYTYPE_APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: "" # This hides standard GitHub stats
+          target: output # Keeps it in your 'output' branch
+          plugin_monkeytype: yes
+          plugin_monkeytype_token: ${{ secrets.MONKEYTYPE_APE_KEY }}
+          plugin_monkeytype_user: karnVen
+          plugin_monkeytype_sections: chart # This forces the heatmap grid
