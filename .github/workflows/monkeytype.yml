@@ -10,6 +10,9 @@ jobs:
       - uses: monkeytype-hub/monkeytype-readme@master
         with:
           username: karnVen
-          monkeytype_ape_key: ${{ secrets.MONKEYTYPE_APE_KEY }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          themes: 'serika_dark'
+          # The action now uses 'github-token' with a hyphen
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          # The ape key should be passed as an environment variable instead
+          # if the 'monkeytype_ape_key' input is no longer supported
+        env:
+          MONKEYTYPE_APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }}
