@@ -14,6 +14,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           # Using 'themes' instead of 'monkeytype_theme'
           themes: 'serika_dark'
+          target-branch: output
         env:
           # Keeping this here as a fallback environment variable
           MONKEYTYPE_APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }}
