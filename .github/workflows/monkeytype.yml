@@ -7,7 +7,7 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: monkeytype-hub/monkeytype-readme@v1.1.0 # Updated to latest version
+      - uses: monkeytype-hub/monkeytype-readme@v1.0.0 # Updated to latest version
         with:
           monkeytype_username: karnVen # Your GitHub/Monkeytype username
           monkeytype_ape_key: ${{ secrets.MONKEYTYPE_APE_KEY }}
