@@ -89,4 +89,6 @@ A bit more about me:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karnVen/karnVen/output/pacman-contribution-graph.svg">
 </picture>
 
+![Monkeytype Stats](https://raw.githubusercontent.com/karnVen/karnVen/monkeytype-readme/monkeytype-readme.svg)
+
 ###
