@@ -7,9 +7,9 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: monkeytype-hub/monkeytype-readme@v1.1.0
+      - uses: monkeytype-hub/monkeytype-readme@master
         with:
           username: karnVen
-          themes: 'serika_dark'
           monkeytype_ape_key: ${{ secrets.MONKEYTYPE_APE_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          themes: 'serika_dark'
