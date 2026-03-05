@@ -10,11 +10,12 @@ jobs:
       - uses: monkeytype-hub/monkeytype-readme@master
         with:
           username: karnVen
-          # Notice the hyphen here, matching your error log
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          # Using 'themes' instead of 'monkeytype_theme'
           themes: 'serika_dark'
           target-branch: output
+          # These exact names ensure ONLY the heatmap appears
+          show-personal-bests: false
+          show-leaderboard: false
+          show-chart: true
         env:
-          # Keeping this here as a fallback environment variable
           MONKEYTYPE_APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }}
