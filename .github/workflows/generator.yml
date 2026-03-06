@@ -2,28 +2,35 @@ name: Custom Heatmap Generator
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allows you to run it manually for testing
+  workflow_dispatch:
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Crucial for allowing the bot to push changes
     steps:
-      - uses: actions/checkout@v3
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
         with:
-          node-version: '18'
+          ref: main # Check out your code from main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
       - name: Install Axios
         run: npm install axios
+
       - name: Run Script
         run: node generate-heatmap.js
         env:
           MONKEYTYPE_APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }}
-      - name: Deploy to Output Branch
-        uses: s0/git-publish-action@main
+
+      # This replaces the broken s0 action
+      - name: Commit and Push Heatmap
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          add: "monkeytype-heatmap.svg"
-          branch: "output"
-          message: "Updated custom typing heatmap"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Update custom typing heatmap [skip ci]"
+          file_pattern: 'monkeytype-heatmap.svg'
+          branch: output # Pushes specifically to your output branch
+          create_branch: true # Creates 'output' if it doesn't exist
