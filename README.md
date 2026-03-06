@@ -89,6 +89,5 @@ A bit more about me:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karnVen/karnVen/output/pacman-contribution-graph.svg">
 </picture>
 
-![Monkeytype Heatmap](https://raw.githubusercontent.com/karnVen/karnVen/output/github-metrics-plugin-monkeytype.svg)
-
+![Monkeytype Heatmap](https://raw.githubusercontent.com/karnVen/karnVen/main/github-metrics.svg)
 ###
