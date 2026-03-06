@@ -7,30 +7,26 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Essential for allowing the Action to push the image
+      contents: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
       - name: Install Axios
-        run: npm install axios
+        run: npm install axios # This prevents the 'axios not found' crash
 
-      - name: Run Script
+      - name: Run Generator Script
         run: node generate-heatmap.js
         env:
           MONKEYTYPE_APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }}
 
-      # This replaces the broken 's0' action from your screenshot
-      - name: Commit and Push Heatmap
+      - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update custom typing heatmap [skip ci]"
+          commit_message: "Update custom typing heatmap"
           file_pattern: 'monkeytype-heatmap.svg'
-          branch: output # Pushes to your branch where Pac-man lives
+          branch: output
           create_branch: true
