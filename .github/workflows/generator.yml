@@ -7,11 +7,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Crucial for allowing the bot to push changes
+      contents: write # Essential for allowing the Action to push the image
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main # Check out your code from main
+          ref: main
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -26,11 +26,11 @@ jobs:
         env:
           MONKEYTYPE_APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }}
 
-      # This replaces the broken s0 action
+      # This replaces the broken 's0' action from your screenshot
       - name: Commit and Push Heatmap
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update custom typing heatmap [skip ci]"
           file_pattern: 'monkeytype-heatmap.svg'
-          branch: output # Pushes specifically to your output branch
-          create_branch: true # Creates 'output' if it doesn't exist
+          branch: output # Pushes to your branch where Pac-man lives
+          create_branch: true
