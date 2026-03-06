@@ -1,0 +1,29 @@
+name: Custom Heatmap Generator
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows you to run it manually for testing
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Install Axios
+        run: npm install axios
+      - name: Run Script
+        run: node generate-heatmap.js
+        env:
+          MONKEYTYPE_APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }}
+      - name: Deploy to Output Branch
+        uses: s0/git-publish-action@main
+        with:
+          add: "monkeytype-heatmap.svg"
+          branch: "output"
+          message: "Updated custom typing heatmap"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
