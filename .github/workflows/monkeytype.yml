@@ -1,22 +1,25 @@
-name: Monkeytype Heatmap
+name: Generate Monkeytype Heatmap
 on:
-  push:
-    paths:
-      - 'results.csv' # Runs when you update your data
-  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *" # Updates twice a day
+  workflow_dispatch:      # Allows you to run it manually
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: m-m-m-m-m-m-m/monkeytype-readme@master
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate SVG
+        run: |
+          mkdir -p output
+          # Fetching your data for user: karnVen
+          curl -o output/monkeytype.svg "https://monkeytype-readme.zeabur.app/generate-svg/karnVen/serika_dark?pb=true"
+
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          monkeytype_data: 'results.csv' # Path to your file
-          # Customize the colors here to match the yellow theme
-          color_1: "#2e2e2e"
-          color_2: "#4d4d00"
-          color_3: "#999900"
-          color_4: "#e6e600"
-          color_5: "#ffff00"
+          publish_dir: ./output
+          publish_branch: monkeytype-data # This creates a separate branch for the image
