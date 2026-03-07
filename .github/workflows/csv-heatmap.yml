@@ -1,0 +1,25 @@
+name: CSV to Heatmap
+on:
+  push:
+    paths:
+      - 'results.csv' # Runs when you update your CSV file
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Generate
+        run: node generate-heatmap.js
+      - name: Commit SVG
+        run: |
+          git config --global user.name "karnVen"
+          git config --global user.email "action@github.com"
+          git add heatmap.svg
+          git commit -m "Update heatmap from CSV" || exit 0
+          git push
