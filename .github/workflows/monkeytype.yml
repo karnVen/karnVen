@@ -1,0 +1,22 @@
+name: Monkeytype Heatmap
+on:
+  push:
+    paths:
+      - 'results.csv' # Runs when you update your data
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: m-m-m-m-m-m-m/monkeytype-readme@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          monkeytype_data: 'results.csv' # Path to your file
+          # Customize the colors here to match the yellow theme
+          color_1: "#2e2e2e"
+          color_2: "#4d4d00"
+          color_3: "#999900"
+          color_4: "#e6e600"
+          color_5: "#ffff00"
