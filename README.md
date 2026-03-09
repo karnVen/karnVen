@@ -80,7 +80,7 @@ A bit more about me:
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zMXk3bTNiY3dleXBhbGZyMWlzcWZhaHU0eWllaHZqeWFpbnFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif"  alt="coding gif" />
    <p align="center">
       </samp>
-<sub><kbd>MonkeyType</kbd><code>🔥 198d Max • ⚡ 43d Cur • 🚀 98wpm Best</code></sub>
+<sub><kbd>MonkeyType</kbd><code>🔥 198d Max • ⚡ 45d Cur • 🚀 98wpm Best</code></sub>
      </samp>
 </p>
 <p align="center">
