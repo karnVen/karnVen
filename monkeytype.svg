@@ -1,5 +1,5 @@
 
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 660" width="500" height="660"
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 220" width="500" height="220"
             class="rounded-2xl">
             <style>
                 /*
@@ -1641,7 +1641,7 @@ video {
 }
 
             </style>
-            <foreignObject x="0" y="0" width="500" height="660">
+            <foreignObject x="0" y="0" width="500" height="220">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <div class="w-full rounded-2xl" style="background-color: #2c2e31; height: 200px;">
                         <div class="flex h-full items-center justify-center">
@@ -1655,14 +1655,10 @@ video {
     </div>
                             <div>
                                 <div class="font-mono text-3xl font-medium tracking-wider" style="color: #d1d0c5;">
-                                    karnVen
+                                    user not found
                                 </div>
                                 
                                 
-                                        <div class="font-mono text-xs font-medium tracking-wide" style="color: #646669;">
-                                            Current streak: 1 days
-                                        </div>
-                                    
                                 </div>
                         </div>
                     </div>
@@ -1670,136 +1666,7 @@ video {
 
                 <div xmlns="http://www.w3.org/1999/xhtml"></div>
 
-                <div xmlns="http://www.w3.org/1999/xhtml">
-            <div class="mt-5 w-full rounded-2xl" style="background-color: #2c2e31; height: 200px;">
-                <div class="flex h-full items-center justify-center">
-                    <div class="mx-5">
-                        <div class="flex items-center justify-around">
-                            <div class="mx-2 w-26 flex-col items-center justify-center">
-                                <div class="py-1 text-center font-mono text-sm font-medium tracking-wider"
-                                    style="color: #646669;">
-                                    15 seconds
-                                </div>
-                                <div class="py-1 text-center font-mono text-4xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    98
-                                </div>
-                                <div class="py-1 text-center font-mono text-2xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    98%
-                                </div>
-                            </div>
-                            <div class="mx-2 w-26 flex-col items-center justify-center">
-                                <div class="py-1 text-center font-mono text-sm font-medium tracking-wider"
-                                    style="color: #646669;">
-                                    30 seconds
-                                </div>
-                                <div class="py-1 text-center font-mono text-4xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    75
-                                </div>
-                                <div class="py-1 text-center font-mono text-2xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    94%
-                                </div>
-                            </div>
-                            <div class="mx-2 w-26 flex-col items-center justify-center">
-                                <div class="py-1 text-center font-mono text-sm font-medium tracking-wider"
-                                    style="color: #646669;">
-                                    60 seconds
-                                </div>
-                                <div class="py-1 text-center font-mono text-4xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    76
-                                </div>
-                                <div class="py-1 text-center font-mono text-2xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    96%
-                                </div>
-                            </div>
-                            <div class="mx-2 w-26 flex-col items-center justify-center">
-                                <div class="py-1 text-center font-mono text-sm font-medium tracking-wider"
-                                    style="color: #646669;">
-                                    120 seconds
-                                </div>
-                                <div class="py-1 text-center font-mono text-4xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    66
-                                </div>
-                                <div class="py-1 text-center font-mono text-2xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    95%
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="mt-5 w-full rounded-2xl" style="background-color: #2c2e31; height: 200px;">
-                <div class="flex h-full items-center justify-center">
-                    <div class="mx-5">
-                        <div class="flex items-center justify-around">
-                            <div class="mx-2 w-26 flex-col items-center justify-center">
-                                <div class="py-1 text-center font-mono text-sm font-medium tracking-wider"
-                                    style="color: #646669;">
-                                    10 words
-                                </div>
-                                <div class="py-1 text-center font-mono text-4xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    108
-                                </div>
-                                <div class="py-1 text-center font-mono text-2xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    100%
-                                </div>
-                            </div>
-                            <div class="mx-2 w-26 flex-col items-center justify-center">
-                                <div class="py-1 text-center font-mono text-sm font-medium tracking-wider"
-                                    style="color: #646669;">
-                                    25 words
-                                </div>
-                                <div class="py-1 text-center font-mono text-4xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    76
-                                </div>
-                                <div class="py-1 text-center font-mono text-2xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    95%
-                                </div>
-                            </div>
-                            <div class="mx-2 w-26 flex-col items-center justify-center">
-                                <div class="py-1 text-center font-mono text-sm font-medium tracking-wider"
-                                    style="color: #646669;">
-                                    50 words
-                                </div>
-                                <div class="py-1 text-center font-mono text-4xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    63
-                                </div>
-                                <div class="py-1 text-center font-mono text-2xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    91%
-                                </div>
-                            </div>
-                            <div class="mx-2 w-26 flex-col items-center justify-center">
-                                <div class="py-1 text-center font-mono text-sm font-medium tracking-wider"
-                                    style="color: #646669;">
-                                    100 words
-                                </div>
-                                <div class="py-1 text-center font-mono text-4xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    53
-                                </div>
-                                <div class="py-1 text-center font-mono text-2xl font-medium tracking-wider"
-                                    style="color: #d1d0c5;">
-                                    88%
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+                <div xmlns="http://www.w3.org/1999/xhtml"></div>
 
                 <div xmlns="http://www.w3.org/1999/xhtml" class="mt-5"></div>
             </foreignObject>
