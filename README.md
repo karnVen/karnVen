@@ -54,40 +54,44 @@ A bit more about me:
 
 - 🐚 [**kaiVen**](https://github.com/karnVen/ShellOrigin) — `$ gcc core.c ai.c -o kaiVen` &nbsp;#Built a raw Unix shell.
 - 🤖 [**GitPost**](https://github.com/karnVen/GitPost) — Turn git push into clout; my automated LinkedIn hype-man
-- 💼 **SavingsYogi** — A startup building next-gen personal finance platform
+- 💼 [**SavingsYogi**](https://savingsyogi.com) — Next-gen personal finance platform
 - 🎓 [**EduVen**](https://github.com/karnVen/EduVen) — Because reading PDFs is boring; learn in a gamified world
 - 📚 [**HakiVen**](https://github.com/karnVen/HakiVen-Study-Tracker-) — Track study habits with Firebase-powered dashboards
 - 👾 [**PokeMemo**](https://github.com/karnVen/MemroyCard) — A memory test powered by the **Fisher-Yates Algorithm**
 
 <hr>
 
-<h3>Experience</h3>
+<h3>⚡ Experience</h3>
 
+<div align="center">
 <table>
 <tr>
-<td>
+<td align="left">
 
-**🏢 &nbsp;[EasyTax Global IT Solutions](https://easytax.live)** &nbsp;·&nbsp; `Developer` &nbsp;·&nbsp; Apr 2026 – Now 
+**🏢 [EasyTax Global IT Solutions](https://easytax.live)**<br>
+`Developer` · Bhamashah Techno Hub, Jaipur · Apr 2026 – Present
 
-&nbsp;&nbsp;↳ &nbsp;Rebuilt Laravel multi-role platform → used daily by 100s of agents<br>
-&nbsp;&nbsp;↳ &nbsp;Ground-up Drupal site redesign: SEO · lead-gen pipeline · integrated payment flow<br>
-&nbsp;&nbsp;`Laravel` `PHP` `Drupal` `MySQL` 
+↳ Rebuilt Laravel multi-role platform used daily by 100s of agents<br>
+↳ Drupal site redesign: SEO · lead-gen pipeline · payment flow<br>
+`Laravel` `PHP` `Drupal` `MySQL` `AWS`
 
 </td>
 </tr>
 <tr>
-<td>
+<td align="left">
 
-**🌐 &nbsp;Savings Yogi** &nbsp;·&nbsp; `Technical Solutions Intern` &nbsp;·&nbsp; Feb – Mar 2026 &nbsp;·&nbsp; Remote (TX, USA)
+**🌐 Savings Yogi**<br>
+`Technical Solutions Intern` · Remote (Frisco, TX) · Feb – Mar 2026
 
-&nbsp;&nbsp;↳ &nbsp;Architected full company website solo — zero to production<br>
-&nbsp;&nbsp;↳ &nbsp;Built custom CMS so non-tech team ships content independently<br>
-&nbsp;&nbsp;↳ &nbsp;Delivered working product in under 4 weeks<br>
-&nbsp;&nbsp;`React` `Node.js` `Firebase` `Custom CMS`
+↳ Architected full company website solo — zero to production<br>
+↳ Custom CMS → non-tech team ships content independently<br>
+↳ Delivered a working product in under 4 weeks<br>
+`React` `Node.js` `Firebase` `Custom CMS`
 
 </td>
 </tr>
 </table>
+</div>
 
 </td>
 <td width="42%" valign="top" align="center">
