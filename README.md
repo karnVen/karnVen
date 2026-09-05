@@ -97,29 +97,19 @@ A bit more about me:
 <td width="42%" valign="top" align="center">
 
 <img src="https://streak-stats.demolab.com?user=karnVen&mode=daily&theme=radical&hide_border=false&border_radius=5" width="100%" alt="GitHub Streak" />
-
-<br><br>
-
+<br>
 <a href="./Karn_Resume.pdf"><img src="https://img.shields.io/badge/-Resume-D14836?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/karnven"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://x.com/karnven"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
 <a href="mailto:onemonth06@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-
-<br><br>
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zMXk3bTNiY3dleXBhbGZyMWlzcWZhaHU0eWllaHZqeWFpbnFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif" width="85%" alt="coding gif" />
-
-<br><br>
-
-<sub><kbd>MonkeyType</kbd> <code>🔥 198d Max • ⚡ 50d Cur • 🚀 98wpm Best</code></sub>
-
 <br>
-
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zMXk3bTNiY3dleXBhbGZyMWlzcWZhaHU0eWllaHZqeWFpbnFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif" width="85%" alt="coding gif" />
+<br>
+<sub><kbd>MonkeyType</kbd> <code>🔥 198d Max • ⚡ 50d Cur • 🚀 98wpm Best</code></sub>
+<br>
 <img src="./monkey.png" width="100%" alt="Typing Heatmap" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karnVen&layout=compact&theme=radical&hide_border=false&border_radius=5&langs_count=8" width="100%" alt="Top Languages" />
+<br>
+<img src="https://github-readme-stats-chi-khaki-27.vercel.app/api/top-langs/?username=karnVen&layout=compact&theme=radical&hide_border=false&border_radius=5&langs_count=8" width="100%" alt="Top Languages" />
 
 </td>
 </tr>
