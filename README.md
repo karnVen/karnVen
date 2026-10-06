@@ -8,7 +8,7 @@
 
 A bit more about me:
 
-- 👨‍💻 I'm a **Full-Stack Developer** building end-to-end applications with a focus on clean code and great user experiences.
+- 👨💻 I'm a **Full-Stack Developer** building end-to-end applications with a focus on clean code and great user experiences.
 - 🤖 I love architecting **AI Agents** and creating intricate **n8n workflows** to automate tasks and boost productivity.
 - 🏆 I'm an avid **hackathon participant** and a firm believer in learning by doing. I thrive under pressure and enjoy collaborating to bring ideas to life.
 - 🌱 Beyond the keyboard, I'm a lifelong learner. You can find me reading a new book, practicing calisthenics, learning a new song on the guitar, or experimenting in the kitchen.
@@ -16,6 +16,8 @@ A bit more about me:
 <br>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -52,6 +54,7 @@ A bit more about me:
 
 <h3>Projects</h3>
 
+- 🛰️ [**GreenClaim Verify**](https://github.com/KhushChouhan/greenclaim-verify) — Auditing global carbon & tree-planting claims with Copernicus Sentinel-2 satellite data + Cesium 3D console
 - 🐚 [**kaiVen**](https://github.com/karnVen/ShellOrigin) — `$ gcc core.c ai.c -o kaiVen` &nbsp;#Built a raw Unix shell.
 - 🤖 [**GitPost**](https://github.com/karnVen/GitPost) — Turn git push into clout; my automated LinkedIn hype-man
 - 💼 [**SavingsYogi**](https://savingsyogi.com) — Next-gen personal finance platform
