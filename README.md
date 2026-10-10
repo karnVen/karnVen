@@ -11,7 +11,7 @@ A bit more about me:
 - 👨💻 I'm a **Full-Stack Developer** building end-to-end applications with a focus on clean code and great user experiences.
 - 🤖 I love architecting **AI Agents** and creating intricate **n8n workflows** to automate tasks and boost productivity.
 - 🏆 I'm an avid **hackathon participant** and a firm believer in learning by doing. I thrive under pressure and enjoy collaborating to bring ideas to life.
-- 🌱 Beyond the keyboard, I'm a lifelong learner. You can find me reading a new book, practicing calisthenics, learning a new song on the guitar, or experimenting in the kitchen.
+- 🌱 Beyond the keyboard, I'm a lifelong learner. You can find me reading a new book, practicing calisthenics, learning a new song on the guitar, or experimenting in the kitchen
 
 <br>
 
