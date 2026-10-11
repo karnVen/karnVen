@@ -83,12 +83,11 @@ A bit more about me:
 <tr>
 <td align="left">
 
-**🌐 Savings Yogi**<br>
+**🌐 [Savings Yogi](https://savingsyogi.com)**<br>
 <sub>`Technical Solutions Intern` · Remote (Frisco, TX) · Feb – Mar 2026</sub>
 
-↳ Architected full company website solo — zero to production<br>
+↳ Architected full company website — zero to production<br>
 ↳ Custom CMS → non-tech team ships content independently<br>
-↳ Delivered a working product in under 4 weeks<br>
 `React` `Node.js` `Firebase` `Custom CMS`
 
 </td>
