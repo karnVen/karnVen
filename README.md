@@ -48,13 +48,9 @@ A bit more about me:
 
 <table width="100%">
 <tr>
-<td width="62%" valign="top">
+<td width="64%" valign="top">
 
 <h4>⚡ Experience</h4>
-
-<table width="100%" cellpadding="6">
-<tr>
-<td width="100%" align="left">
 
 **🏢 [EasyTax Global IT Solutions](https://easytax.live)**<br>
 <sub>Developer · Bhamashah Techno Hub, Jaipur · Apr 2026 – Present</sub><br>
@@ -62,10 +58,7 @@ A bit more about me:
 ↳ Engineered **[e-Mitra Integration](https://github.com/karnVen/eaystax_emitra)** with session-scoped financial cycles & Drupal redesign.<br>
 `Laravel 11` `PHP 8.3` `Drupal 10` `MySQL` `Alpine.js` `AWS`
 
-</td>
-</tr>
-<tr>
-<td width="100%" align="left">
+<br><br>
 
 **🌐 [Savings Yogi](https://savingsyogi.com)**<br>
 <sub>Technical Solutions Intern · Remote (Frisco, TX) · Feb – Mar 2026</sub><br>
@@ -75,34 +68,53 @@ A bit more about me:
 `React` `TypeScript` `Sanity CMS` `Recharts` `Radix UI` `Vite`
 
 </td>
+<td width="36%" rowspan="4" valign="top" align="center">
+
+<img src="https://streak-stats.demolab.com?user=karnVen&mode=daily&theme=radical&hide_border=false&border_radius=5" width="260" alt="GitHub Streak" />
+
+<br><br>
+
+<a href="https://github.com/karnVen/karnVen/blob/main/Karn_Resume.pdf"><img src="https://img.shields.io/badge/-Resume-D14836?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/karnven"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://x.com/karnven"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
+<a href="mailto:onemonth06@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zMXk3bTNiY3dleXBhbGZyMWlzcWZhaHU0eWllaHZqeWFpbnFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif" width="220" alt="coding gif" />
+
+<br><br>
+
+<sub><kbd>MonkeyType</kbd> <code>🔥 198d Max • ⚡ 50d Cur • 🚀 98wpm Best</code></sub>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/karnVen/karnVen/main/monkey.png" width="260" alt="Typing Heatmap" />
+
+<br>
+
+<img src="https://github-readme-stats-chi-khaki-27.vercel.app/api/top-langs/?username=karnVen&layout=compact&theme=radical&hide_border=false&border_radius=5&langs_count=8" width="260" alt="Top Languages" />
+
+</td>
 </tr>
-</table>
+<tr>
+<td width="64%" valign="top">
 
 <h4>🚀 Client & Freelance</h4>
-
-<table width="100%" cellpadding="6">
-<tr>
-<td width="100%" align="left">
 
 🌿 **[ASMS Healthcare Platform](https://github.com/karnVen/asms-healthcare-platform)** &nbsp;[Live ↗](https://asms-iota.vercel.app/)<br>
 <sub>AYUSH Shubham Institute · Section-8 Non-Profit Trust</sub><br>
 Next.js 15 clinical portal, 36-state GIS map, 148 SEO routes & credential verification.<br>
 `Next.js 15` `TypeScript` `Tailwind CSS` `Vercel Edge`
 
-</td>
-</tr>
-<tr>
-<td width="100%" align="left">
+<br><br>
 
 👗 **[Shree Shyam Designer](https://github.com/karnVen/shree-shyam-couture-platform)** &nbsp;[Live ↗](https://shree-shyam-designs.vercel.app/)<br>
 <sub>Luxury Ethnic Couture Atelier, Jaipur</sub><br>
 Serverless luxury e-commerce catalog featuring dynamic lookbook & WhatsApp sales funnel.<br>
 `Next.js 15` `React 19` `Neon PostgreSQL` `Tailwind CSS`
 
-</td>
-</tr>
-<tr>
-<td width="100%" align="left">
+<br><br>
 
 🤝 **[Nasiba Foundation](https://github.com/karnVen/nasiba-foundation-welfare-platform)**<br>
 <sub>Humanitarian Welfare & Educational Trust</sub><br>
@@ -111,104 +123,48 @@ Full-stack NGO platform with donation drives & 4-tier admin ERP for staff & payr
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="64%" valign="top">
 
 <h4>🛠️ Projects</h4>
-
-<table width="100%" cellpadding="6">
-<tr>
-<td width="100%" align="left">
 
 🐚 **[kaiVen (ShellOrigin)](https://github.com/karnVen/ShellOrigin)**<br>
 Raw Unix shell in C with POSIX process isolation, pipelines & terminal control.
 
-</td>
-</tr>
-<tr>
-<td width="100%" align="left">
+<br><br>
 
 🤖 **[GitPost](https://github.com/karnVen/GitPost)**<br>
 Automated pipeline turning git commits & diffs into structured LinkedIn engineering posts.
 
-</td>
-</tr>
-<tr>
-<td width="100%" align="left">
+<br><br>
 
 ⚡ **[NichijouVen](https://github.com/karnVen/NichijouVen)**<br>
 Personal Life OS & habit mastery center with Prisma ORM, Docker & daily analytics.
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="64%" valign="top">
 
 <h4>🏆 Hackathons & Early Builds</h4>
-
-<table width="100%" cellpadding="6">
-<tr>
-<td width="100%" align="left">
 
 🛰️ **[GreenClaim Verify](https://github.com/KhushChouhan/greenclaim-verify)** &nbsp;<sub>*(Hackathon Project)*</sub><br>
 Auditing carbon offsets & tree planting with Copernicus Sentinel-2 & Cesium 3D geospatial.
 
-</td>
-</tr>
-<tr>
-<td width="100%" align="left">
+<br><br>
 
 🎓 **[EduVen](https://github.com/karnVen/EduVen)** &nbsp;<sub>*(Built in 1st Year)*</sub><br>
 Interactive educational portal transforming static textbook PDFs into web learning modules.
 
-</td>
-</tr>
-<tr>
-<td width="100%" align="left">
+<br><br>
 
 🐾 **[PAWRESCUE](https://github.com/karnVen/PAWRESCUE)** &nbsp;<sub>*(Built in 1st Year)*</sub><br>
 Responsive pet adoption & animal rescue platform connecting local shelters with adopters.
 
-</td>
-</tr>
-<tr>
-<td width="100%" align="left">
+<br><br>
 
 🛡️ **[Women Safety Dashboard](https://github.com/karnVen/womenSeftyDashboard)** &nbsp;<sub>*(Built in 1st Year)*</sub><br>
 Mobile emergency safety application with one-tap SOS dispatch & geofencing in Flutter.
-
-</td>
-</tr>
-</table>
-
-</td>
-<td width="38%" valign="top" align="center">
-
-<img src="https://streak-stats.demolab.com?user=karnVen&mode=daily&theme=radical&hide_border=false&border_radius=5" width="300" alt="GitHub Streak" />
-
-<br>
-<br>
-
-<a href="./Karn_Resume.pdf"><img src="https://img.shields.io/badge/-Resume-D14836?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/karnven"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://x.com/karnven"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
-<a href="mailto:onemonth06@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-
-<br>
-<br>
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zMXk3bTNiY3dleXBhbGZyMWlzcWZhaHU0eWllaHZqeWFpbnFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif" width="240" alt="coding gif" />
-
-<br>
-<br>
-
-<sub><kbd>MonkeyType</kbd> <code>🔥 198d Max • ⚡ 50d Cur • 🚀 98wpm Best</code></sub>
-
-<br>
-
-<img src="./monkey.png" width="300" alt="Typing Heatmap" />
-
-<br>
-
-<img src="https://github-readme-stats-chi-khaki-27.vercel.app/api/top-langs/?username=karnVen&layout=compact&theme=radical&hide_border=false&border_radius=5&langs_count=8" width="300" alt="Top Languages" />
 
 </td>
 </tr>
