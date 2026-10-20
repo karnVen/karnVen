@@ -50,145 +50,139 @@ A bit more about me:
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="63%" valign="top">
 
-<h3>⚡ Experience</h3>
+<h4>⚡ Experience</h4>
 
-<table width="100%" cellpadding="6">
+<table width="100%" cellpadding="8">
 <tr>
-<td align="left">
+<td width="100%" align="left">
 
 **🏢 [EasyTax Global IT Solutions](https://easytax.live)**<br>
-<sub>Developer · Apr 2026 – Present</sub><br>
-↳ Rebuilt Laravel 11 multi-portal platform<br>
-↳ Built **[e-Mitra Integration](https://github.com/karnVen/eaystax_emitra)** & Drupal redesign<br>
-`Laravel` `PHP` `Drupal` `MySQL` `AWS`
+<sub>Developer · Bhamashah Techno Hub, Jaipur · Apr 2026 – Present</sub><br>
+↳ Rebuilt Laravel 11 multi-portal platform used daily by 100s of agents.<br>
+↳ Engineered **[e-Mitra Integration](https://github.com/karnVen/eaystax_emitra)** with session-scoped financial cycles & Drupal site redesign.<br>
+`Laravel 11` `PHP 8.3` `Drupal 10` `MySQL` `Alpine.js` `AWS`
 
 </td>
 </tr>
 <tr>
-<td align="left">
+<td width="100%" align="left">
 
 **🌐 [Savings Yogi](https://savingsyogi.com)**<br>
-<sub>Technical Solutions Intern · Feb – Mar 2026</sub><br>
-↳ Full FinTech app — zero to production<br>
-↳ Headless Sanity CMS & 60 FPS Recharts<br>
-↳ **[Case Study](https://github.com/karnVen/savingsyogi-fintech-showcase)** · **[Live Demo ↗](https://karnven.github.io/savingsyogi/)**<br>
-`React` `TypeScript` `Sanity` `Recharts`
+<sub>Technical Solutions Intern · Remote (Frisco, TX) · Feb – Mar 2026</sub><br>
+↳ Architected full company FinTech web application — zero to production.<br>
+↳ Headless Sanity CMS + real-time 60 FPS Recharts wealth projection calculators.<br>
+↳ Case study: **[SavingsYogi Showcase](https://github.com/karnVen/savingsyogi-fintech-showcase)** &nbsp;[Live Demo ↗](https://karnven.github.io/savingsyogi/)<br>
+`React` `TypeScript` `Sanity CMS` `Recharts` `Radix UI` `Vite`
 
 </td>
 </tr>
 </table>
 
-<br>
+<h4>🚀 Client & Freelance</h4>
 
-<h3>🚀 Client & Freelance</h3>
-
-<table width="100%" cellpadding="6">
+<table width="100%" cellpadding="8">
 <tr>
-<td align="left">
+<td width="100%" align="left">
 
 🌿 **[ASMS Healthcare Platform](https://github.com/karnVen/asms-healthcare-platform)** &nbsp;[Live ↗](https://asms-iota.vercel.app/)<br>
-<sub>AYUSH Shubham Institute · Section-8 Trust</sub><br>
-Next.js 15 clinical portal, 36-state GIS map & verification engine.<br>
-`Next.js 15` `TypeScript` `Tailwind CSS`
+<sub>AYUSH Shubham Institute · Section-8 Non-Profit Trust</sub><br>
+Next.js 15 enterprise clinical portal, 36-state vector GIS map, 148 programmatic SEO routes & credential verification engine.<br>
+`Next.js 15` `TypeScript` `Tailwind CSS` `Vercel Edge`
 
 </td>
 </tr>
 <tr>
-<td align="left">
+<td width="100%" align="left">
 
 👗 **[Shree Shyam Designer](https://github.com/karnVen/shree-shyam-couture-platform)** &nbsp;[Live ↗](https://shree-shyam-designs.vercel.app/)<br>
 <sub>Luxury Ethnic Couture Atelier, Jaipur</sub><br>
-Serverless e-commerce & WhatsApp sales engine.<br>
-`Next.js 15` `React 19` `Neon Postgres`
+Serverless luxury e-commerce catalog featuring dynamic lookbook, direct WhatsApp conversational sales funnel & Neon Postgres.<br>
+`Next.js 15` `React 19` `Neon PostgreSQL` `Tailwind CSS`
 
 </td>
 </tr>
 <tr>
-<td align="left">
+<td width="100%" align="left">
 
 🤝 **[Nasiba Foundation](https://github.com/karnVen/nasiba-foundation-welfare-platform)**<br>
-<sub>Humanitarian Welfare Trust</sub><br>
-Full-stack NGO platform & 4-tier staff ERP.<br>
-`Next.js` `Prisma ORM` `JWT`
+<sub>Humanitarian Welfare & Educational Trust</sub><br>
+Full-stack NGO platform with dynamic donation drives and internal 4-tier administrative ERP for staff attendance, leave approvals & payroll audits.<br>
+`Next.js` `TypeScript` `Prisma ORM` `Stateless JWT`
 
 </td>
 </tr>
 </table>
 
-<br>
+<h4>🛠️ Projects</h4>
 
-<h3>🛠️ Projects</h3>
-
-<table width="100%" cellpadding="6">
+<table width="100%" cellpadding="8">
 <tr>
-<td align="left">
+<td width="100%" align="left">
 
 🐚 **[kaiVen (ShellOrigin)](https://github.com/karnVen/ShellOrigin)**<br>
-Raw Unix shell in C with POSIX process isolation.
+Raw Unix shell engineered from scratch in C with POSIX process isolation, command pipelines, and terminal control.
 
 </td>
 </tr>
 <tr>
-<td align="left">
+<td width="100%" align="left">
 
 🤖 **[GitPost](https://github.com/karnVen/GitPost)**<br>
-Turns git commits into structured LinkedIn updates.
+Automated developer pipeline that turns git commit metadata and repository diffs into structured LinkedIn engineering posts.
 
 </td>
 </tr>
 <tr>
-<td align="left">
+<td width="100%" align="left">
 
 ⚡ **[NichijouVen](https://github.com/karnVen/NichijouVen)**<br>
-Personal Life OS & habit mastery (Prisma + Docker).
+Cybernetic personal Life OS & habit mastery center with Prisma ORM, Docker containerization, and daily analytics.
 
 </td>
 </tr>
 </table>
 
-<br>
+<h4>🏆 Hackathons & Early Builds</h4>
 
-<h3>🏆 Hackathons & Early Builds</h3>
-
-<table width="100%" cellpadding="6">
+<table width="100%" cellpadding="8">
 <tr>
-<td align="left">
+<td width="100%" align="left">
 
-🛰️ **[GreenClaim Verify](https://github.com/KhushChouhan/greenclaim-verify)** <sub>(Hackathon)</sub><br>
-Auditing carbon claims via Sentinel-2 satellite data + Cesium 3D.
+🛰️ **[GreenClaim Verify](https://github.com/KhushChouhan/greenclaim-verify)** &nbsp;<sub>*(Hackathon Project)*</sub><br>
+Auditing global carbon offset and tree-planting initiatives utilizing Copernicus Sentinel-2 satellite data and Cesium 3D geospatial rendering.
 
 </td>
 </tr>
 <tr>
-<td align="left">
+<td width="100%" align="left">
 
-🎓 **[EduVen](https://github.com/karnVen/EduVen)** <sub>(Built in 1st Year)</sub><br>
-Gamified learning portal replacing static PDFs.
-
-</td>
-</tr>
-<tr>
-<td align="left">
-
-🐾 **[PAWRESCUE](https://github.com/karnVen/PAWRESCUE)** <sub>(Built in 1st Year)</sub><br>
-Pet adoption & animal rescue landing platform.
+🎓 **[EduVen](https://github.com/karnVen/EduVen)** &nbsp;<sub>*(Built in 1st Year)*</sub><br>
+Gamified interactive educational portal transforming static textbook PDFs into engaging web learning modules.
 
 </td>
 </tr>
 <tr>
-<td align="left">
+<td width="100%" align="left">
 
-🛡️ **[Women Safety Dashboard](https://github.com/karnVen/womenSeftyDashboard)** <sub>(Built in 1st Year)</sub><br>
-Mobile SOS dispatch & geofencing app in Flutter.
+🐾 **[PAWRESCUE](https://github.com/karnVen/PAWRESCUE)** &nbsp;<sub>*(Built in 1st Year)*</sub><br>
+Responsive pet adoption and animal rescue coordination landing platform connecting local shelters with adopters.
+
+</td>
+</tr>
+<tr>
+<td width="100%" align="left">
+
+🛡️ **[Women Safety Dashboard](https://github.com/karnVen/womenSeftyDashboard)** &nbsp;<sub>*(Built in 1st Year)*</sub><br>
+Mobile emergency safety application featuring one-tap SOS dispatch, live geofencing, and emergency alerts in Flutter.
 
 </td>
 </tr>
 </table>
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="37%" valign="top" align="center">
 
 <img src="https://streak-stats.demolab.com?user=karnVen&mode=daily&theme=radical&hide_border=false&border_radius=5" width="100%" alt="GitHub Streak" />
 
