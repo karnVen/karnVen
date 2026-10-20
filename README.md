@@ -50,19 +50,18 @@ A bit more about me:
 
 <table width="100%">
 <tr>
-<td width="66%" valign="top">
+<td width="55%" valign="top">
 
 <h3>⚡ Experience</h3>
 
-<table width="100%" cellpadding="8">
+<table width="100%" cellpadding="6">
 <tr>
 <td align="left">
 
 **🏢 [EasyTax Global IT Solutions](https://easytax.live)**<br>
-<sub>`Developer` · Bhamashah Techno Hub, Jaipur · Apr 2026 – Present</sub><br>
-↳ Rebuilt Laravel 11 multi-portal platform used daily by 100s of agents<br>
-↳ Engineered **[e-Mitra Integration](https://github.com/karnVen/eaystax_emitra)** with session-scoped financial cycles<br>
-↳ Drupal site redesign: SEO · lead-gen pipeline · payment flow<br>
+<sub>Developer · Apr 2026 – Present</sub><br>
+↳ Rebuilt Laravel 11 multi-portal platform<br>
+↳ Built **[e-Mitra Integration](https://github.com/karnVen/eaystax_emitra)** & Drupal redesign<br>
 `Laravel` `PHP` `Drupal` `MySQL` `AWS`
 
 </td>
@@ -71,11 +70,11 @@ A bit more about me:
 <td align="left">
 
 **🌐 [Savings Yogi](https://savingsyogi.com)**<br>
-<sub>`Technical Solutions Intern` · Remote (Frisco, TX) · Feb – Mar 2026</sub><br>
-↳ Architected full company website — zero to production<br>
-↳ Headless Sanity CMS + real-time 60 FPS Recharts wealth calculators<br>
-↳ See case study: **[SavingsYogi Showcase](https://github.com/karnVen/savingsyogi-fintech-showcase)** ([Live ↗](https://karnven.github.io/savingsyogi/))<br>
-`React` `TypeScript` `Sanity CMS` `Recharts` `Radix UI`
+<sub>Technical Solutions Intern · Feb – Mar 2026</sub><br>
+↳ Full FinTech app — zero to production<br>
+↳ Headless Sanity CMS & 60 FPS Recharts<br>
+↳ **[Case Study](https://github.com/karnVen/savingsyogi-fintech-showcase)** · **[Live Demo ↗](https://karnven.github.io/savingsyogi/)**<br>
+`React` `TypeScript` `Sanity` `Recharts`
 
 </td>
 </tr>
@@ -85,13 +84,13 @@ A bit more about me:
 
 <h3>🚀 Client & Freelance</h3>
 
-<table width="100%" cellpadding="8">
+<table width="100%" cellpadding="6">
 <tr>
 <td align="left">
 
-🌿 [**ASMS Healthcare Platform**](https://github.com/karnVen/asms-healthcare-platform) &nbsp;[Live ↗](https://asms-iota.vercel.app/)<br>
+🌿 **[ASMS Healthcare Platform](https://github.com/karnVen/asms-healthcare-platform)** &nbsp;[Live ↗](https://asms-iota.vercel.app/)<br>
 <sub>AYUSH Shubham Institute · Section-8 Trust</sub><br>
-Next.js 15 clinical portal, 36-state vector GIS map, 148 programmatic SEO routes & credential verification engine.<br>
+Next.js 15 clinical portal, 36-state GIS map & verification engine.<br>
 `Next.js 15` `TypeScript` `Tailwind CSS`
 
 </td>
@@ -99,9 +98,9 @@ Next.js 15 clinical portal, 36-state vector GIS map, 148 programmatic SEO routes
 <tr>
 <td align="left">
 
-👗 [**Shree Shyam Designer**](https://github.com/karnVen/shree-shyam-couture-platform) &nbsp;[Live ↗](https://shree-shyam-designs.vercel.app/)<br>
-<sub>Shree Shyam Designer · Luxury Atelier, Jaipur</sub><br>
-Serverless luxury e-commerce catalog with dynamic lookbook, direct WhatsApp sales funnel & Neon Postgres.<br>
+👗 **[Shree Shyam Designer](https://github.com/karnVen/shree-shyam-couture-platform)** &nbsp;[Live ↗](https://shree-shyam-designs.vercel.app/)<br>
+<sub>Luxury Ethnic Couture Atelier, Jaipur</sub><br>
+Serverless e-commerce & WhatsApp sales engine.<br>
 `Next.js 15` `React 19` `Neon Postgres`
 
 </td>
@@ -109,10 +108,10 @@ Serverless luxury e-commerce catalog with dynamic lookbook, direct WhatsApp sale
 <tr>
 <td align="left">
 
-🤝 [**Nasiba Foundation**](https://github.com/karnVen/nasiba-foundation-welfare-platform)<br>
-<sub>Nasiba Foundation · Humanitarian Welfare Trust</sub><br>
-Full-stack NGO portal with donation campaigns and internal 4-tier ERP for staff attendance, leaves & payroll audits.<br>
-`Next.js` `Prisma ORM` `Stateless JWT`
+🤝 **[Nasiba Foundation](https://github.com/karnVen/nasiba-foundation-welfare-platform)**<br>
+<sub>Humanitarian Welfare Trust</sub><br>
+Full-stack NGO platform & 4-tier staff ERP.<br>
+`Next.js` `Prisma ORM` `JWT`
 
 </td>
 </tr>
@@ -122,28 +121,28 @@ Full-stack NGO portal with donation campaigns and internal 4-tier ERP for staff 
 
 <h3>🛠️ Projects</h3>
 
-<table width="100%" cellpadding="8">
+<table width="100%" cellpadding="6">
 <tr>
 <td align="left">
 
-🐚 [**kaiVen (ShellOrigin)**](https://github.com/karnVen/ShellOrigin) — `$ gcc core.c ai.c -o kaiVen`<br>
-Built a raw Unix shell from scratch in C with POSIX process isolation & pipelines.
+🐚 **[kaiVen (ShellOrigin)](https://github.com/karnVen/ShellOrigin)**<br>
+Raw Unix shell in C with POSIX process isolation.
 
 </td>
 </tr>
 <tr>
 <td align="left">
 
-🤖 [**GitPost**](https://github.com/karnVen/GitPost) — Turn git push into developer clout<br>
-Automated pipeline turning commit diffs into professional LinkedIn posts.
+🤖 **[GitPost](https://github.com/karnVen/GitPost)**<br>
+Turns git commits into structured LinkedIn updates.
 
 </td>
 </tr>
 <tr>
 <td align="left">
 
-⚡ [**NichijouVen**](https://github.com/karnVen/NichijouVen) — Cybernetic Personal Life OS<br>
-Personal habit mastery & daily analytics engine with Prisma & Docker.
+⚡ **[NichijouVen](https://github.com/karnVen/NichijouVen)**<br>
+Personal Life OS & habit mastery (Prisma + Docker).
 
 </td>
 </tr>
@@ -153,45 +152,45 @@ Personal habit mastery & daily analytics engine with Prisma & Docker.
 
 <h3>🏆 Hackathons & Early Builds</h3>
 
-<table width="100%" cellpadding="8">
+<table width="100%" cellpadding="6">
 <tr>
 <td align="left">
 
-🛰️ [**GreenClaim Verify**](https://github.com/KhushChouhan/greenclaim-verify) — Hackathon<br>
-Auditing carbon & tree-planting claims with Copernicus Sentinel-2 satellite data + Cesium 3D console.
+🛰️ **[GreenClaim Verify](https://github.com/KhushChouhan/greenclaim-verify)** <sub>(Hackathon)</sub><br>
+Auditing carbon claims via Sentinel-2 satellite data + Cesium 3D.
 
 </td>
 </tr>
 <tr>
 <td align="left">
 
-🎓 [**EduVen**](https://github.com/karnVen/EduVen) <sub>*(Built in 1st Year)*</sub><br>
-Gamified interactive learning portal replacing dry textbook PDFs.
+🎓 **[EduVen](https://github.com/karnVen/EduVen)** <sub>(Built in 1st Year)</sub><br>
+Gamified learning portal replacing static PDFs.
 
 </td>
 </tr>
 <tr>
 <td align="left">
 
-🐾 [**PAWRESCUE**](https://github.com/karnVen/PAWRESCUE) <sub>*(Built in 1st Year)*</sub><br>
-Pet adoption & animal rescue coordination landing page.
+🐾 **[PAWRESCUE](https://github.com/karnVen/PAWRESCUE)** <sub>(Built in 1st Year)</sub><br>
+Pet adoption & animal rescue landing platform.
 
 </td>
 </tr>
 <tr>
 <td align="left">
 
-🛡️ [**Women Safety Dashboard**](https://github.com/karnVen/womenSeftyDashboard) <sub>*(Built in 1st Year)*</sub><br>
-Emergency SOS dispatch, geofencing & alerts mobile app in Flutter.
+🛡️ **[Women Safety Dashboard](https://github.com/karnVen/womenSeftyDashboard)** <sub>(Built in 1st Year)</sub><br>
+Mobile SOS dispatch & geofencing app in Flutter.
 
 </td>
 </tr>
 </table>
 
 </td>
-<td width="34%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-<img src="https://streak-stats.demolab.com?user=karnVen&mode=daily&theme=radical&hide_border=false&border_radius=5" width="280" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=karnVen&mode=daily&theme=radical&hide_border=false&border_radius=5" width="100%" alt="GitHub Streak" />
 
 <br>
 <br>
@@ -204,7 +203,7 @@ Emergency SOS dispatch, geofencing & alerts mobile app in Flutter.
 <br>
 <br>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zMXk3bTNiY3dleXBhbGZyMWlzcWZhaHU0eWllaHZqeWFpbnFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif" width="240" alt="coding gif" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zMXk3bTNiY3dleXBhbGZyMWlzcWZhaHU0eWllaHZqeWFpbnFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif" width="85%" alt="coding gif" />
 
 <br>
 <br>
@@ -213,11 +212,11 @@ Emergency SOS dispatch, geofencing & alerts mobile app in Flutter.
 
 <br>
 
-<img src="./monkey.png" width="280" alt="Typing Heatmap" />
+<img src="./monkey.png" width="100%" alt="Typing Heatmap" />
 
 <br>
 
-<img src="https://github-readme-stats-chi-khaki-27.vercel.app/api/top-langs/?username=karnVen&layout=compact&theme=radical&hide_border=false&border_radius=5&langs_count=8" width="280" alt="Top Languages" />
+<img src="https://github-readme-stats-chi-khaki-27.vercel.app/api/top-langs/?username=karnVen&layout=compact&theme=radical&hide_border=false&border_radius=5&langs_count=8" width="100%" alt="Top Languages" />
 
 </td>
 </tr>
