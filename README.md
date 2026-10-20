@@ -8,75 +8,53 @@
 
 A bit more about me:
 
-- 👨💻 I'm a **Full-Stack Developer** building end-to-end applications with a focus on clean code and great user experiences.
+- 👨‍💻 I'm a **Full-Stack Developer** building end-to-end applications with a focus on clean code, robust system architecture, and great user experiences.
 - 🤖 I love architecting **AI Agents** and creating intricate **n8n workflows** to automate tasks and boost productivity.
 - 🏆 I'm an avid **hackathon participant** and a firm believer in learning by doing. I thrive under pressure and enjoy collaborating to bring ideas to life.
-- 🌱 Beyond the keyboard, I'm a lifelong learner. You can find me reading a new book, practicing calisthenics, learning a new song on the guitar, or experimenting in the kitchen
+- 🌱 Beyond the keyboard, I'm a lifelong learner. You can find me reading a new book, practicing calisthenics, learning a new song on the guitar, or experimenting in the kitchen.
 
 <br>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/-Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spline-000000?style=flat-square&logo=spline&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 <td width="58%" valign="top">
-
-<h3>Projects</h3>
-
-- 🛰️ [**GreenClaim Verify**](https://github.com/KhushChouhan/greenclaim-verify) — Auditing global carbon & tree-planting claims with Copernicus Sentinel-2 satellite data + Cesium 3D console
-- 🐚 [**kaiVen**](https://github.com/karnVen/ShellOrigin) — `$ gcc core.c ai.c -o kaiVen` &nbsp;#Built a raw Unix shell.
-- 🤖 [**GitPost**](https://github.com/karnVen/GitPost) — Turn git push into clout; my automated LinkedIn hype-man
-- 💼 [**SavingsYogi**](https://savingsyogi.com) — Next-gen personal finance platform
-- 🎓 [**EduVen**](https://github.com/karnVen/EduVen) — Because reading PDFs is boring; learn in a gamified world
-- 📚 [**HakiVen**](https://github.com/karnVen/HakiVen-Study-Tracker-) — Track study habits with Firebase-powered dashboards
-- 👾 [**PokeMemo**](https://github.com/karnVen/MemroyCard) — A memory test powered by the **Fisher-Yates Algorithm**
-
-<hr>
 
 <h3>⚡ Experience</h3>
 
 <div align="center">
-<table cellpadding="10">
+<table cellpadding="10" width="100%">
 <tr>
 <td align="left">
 
 **🏢 [EasyTax Global IT Solutions](https://easytax.live)**<br>
 <sub>`Developer` · Bhamashah Techno Hub, Jaipur · Apr 2026 – Present</sub>
 
-↳ Rebuilt Laravel multi-role platform used daily by 100s of agents<br>
-↳ Drupal site redesign: SEO · lead-gen pipeline · payment flow<br>
-`Laravel` `PHP` `Drupal` `MySQL` `AWS`
+↳ Rebuilt multi-portal Laravel 11 platform used daily by 100s of e-Mitra agents<br>
+↳ Drupal 10 component-driven site redesign: SEO · lead-gen pipeline · payment flows<br>
+`Laravel 11` `PHP 8.3` `Drupal 10` `MySQL` `Alpine.js` `AWS`
 
 </td>
 </tr>
@@ -86,14 +64,40 @@ A bit more about me:
 **🌐 [Savings Yogi](https://savingsyogi.com)**<br>
 <sub>`Technical Solutions Intern` · Remote (Frisco, TX) · Feb – Mar 2026</sub>
 
-↳ Architected full company website — zero to production<br>
-↳ Custom CMS → non-tech team ships content independently<br>
-`React` `Node.js` `Firebase` `Custom CMS`
+↳ Architected full company FinTech web application — zero to production<br>
+↳ Headless Sanity CMS + real-time 60 FPS Recharts wealth projection calculators<br>
+`React` `TypeScript` `Sanity CMS` `Recharts` `Radix UI` `Vite`
 
 </td>
 </tr>
 </table>
 </div>
+
+<hr>
+
+<h3>🚀 Client & Freelance Production Showcases</h3>
+
+- 🌿 [**ASMS Healthcare Platform**](https://github.com/karnVen/asms-healthcare-platform) ([Live ↗](https://asms-iota.vercel.app/)) — Next.js 15 clinical verification engine & 36-state vector GIS directory for accredited Section-8 Trust.
+- 👗 [**Shree Shyam Designer**](https://github.com/karnVen/shree-shyam-couture-platform) ([Live ↗](https://shree-shyam-designs.vercel.app/)) — Luxury ethnic couture e-commerce & conversational WhatsApp sales engine with Neon Serverless Postgres.
+- 🤝 [**Nasiba Foundation**](https://github.com/karnVen/nasiba-foundation-welfare-platform) — Full-stack NGO welfare platform & 4-tier administrative ERP built with Next.js App Router, Prisma ORM, and JWT.
+- 🏛️ [**EasyTax e-Mitra Integration**](https://github.com/karnVen/eaystax_emitra) — High-volume B2B tax operations portal with financial cycle session scoping & automated agent commission ledgers.
+
+<hr>
+
+<h3>🛠️ Projects</h3>
+
+- 🐚 [**kaiVen (ShellOrigin)**](https://github.com/karnVen/ShellOrigin) — `$ gcc core.c ai.c -o kaiVen` &nbsp;#Built a raw Unix shell from scratch in C with POSIX process isolation.
+- 🤖 [**GitPost**](https://github.com/karnVen/GitPost) — Turn git push into developer clout; automated commit analysis & social publishing pipeline.
+- ⚡ [**NichijouVen**](https://github.com/karnVen/NichijouVen) — Cybernetic personal Life OS & habit mastery center with Prisma, Docker containerization & daily analytics.
+
+<hr>
+
+<h3>🏆 Hackathon & Early Innovation Projects</h3>
+
+- 🛰️ [**GreenClaim Verify**](https://github.com/KhushChouhan/greenclaim-verify) — Auditing global carbon & tree-planting claims with Copernicus Sentinel-2 satellite data + Cesium 3D console *(Hackathon Project)*.
+- 🎓 [**EduVen**](https://github.com/karnVen/EduVen) — Gamified interactive learning portal replacing dry textbook PDFs *(Built in 1st Year)*.
+- 🐾 [**PAWRESCUE**](https://github.com/karnVen/PAWRESCUE) — Animal adoption, rescue coordination & veterinary emergency landing page *(Built in 1st Year)*.
+- 🛡️ [**Women Safety Dashboard**](https://github.com/karnVen/womenSeftyDashboard) — Emergency SOS dispatch, geofencing & incident reporting mobile application in Flutter *(Built in 1st Year)*.
 
 </td>
 <td width="42%" valign="top" align="center">
@@ -108,6 +112,8 @@ A bit more about me:
 <a href="https://x.com/karnven"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
 <a href="mailto:onemonth06@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
+<br>
+<br>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zMXk3bTNiY3dleXBhbGZyMWlzcWZhaHU0eWllaHZqeWFpbnFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif" width="85%" alt="coding gif" />
 
@@ -116,6 +122,7 @@ A bit more about me:
 
 <sub><kbd>MonkeyType</kbd> <code>🔥 198d Max • ⚡ 50d Cur • 🚀 98wpm Best</code></sub>
 
+<br>
 
 <img src="./monkey.png" width="100%" alt="Typing Heatmap" />
 
