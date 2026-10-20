@@ -48,19 +48,19 @@ A bit more about me:
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="66%" valign="top">
 
 <h3>⚡ Experience</h3>
 
-<table cellpadding="8">
+<table width="100%" cellpadding="8">
 <tr>
 <td align="left">
 
 **🏢 [EasyTax Global IT Solutions](https://easytax.live)**<br>
 <sub>`Developer` · Bhamashah Techno Hub, Jaipur · Apr 2026 – Present</sub><br>
-↳ Rebuilt Laravel multi-role platform used daily by 100s of agents<br>
+↳ Rebuilt Laravel 11 multi-portal platform used daily by 100s of agents<br>
 ↳ Engineered **[e-Mitra Integration](https://github.com/karnVen/eaystax_emitra)** with session-scoped financial cycles<br>
 ↳ Drupal site redesign: SEO · lead-gen pipeline · payment flow<br>
 `Laravel` `PHP` `Drupal` `MySQL` `AWS`
@@ -85,7 +85,7 @@ A bit more about me:
 
 <h3>🚀 Client & Freelance</h3>
 
-<table cellpadding="8">
+<table width="100%" cellpadding="8">
 <tr>
 <td align="left">
 
@@ -122,7 +122,7 @@ Full-stack NGO portal with donation campaigns and internal 4-tier ERP for staff 
 
 <h3>🛠️ Projects</h3>
 
-<table cellpadding="8">
+<table width="100%" cellpadding="8">
 <tr>
 <td align="left">
 
@@ -153,7 +153,7 @@ Personal habit mastery & daily analytics engine with Prisma & Docker.
 
 <h3>🏆 Hackathons & Early Builds</h3>
 
-<table cellpadding="8">
+<table width="100%" cellpadding="8">
 <tr>
 <td align="left">
 
@@ -189,9 +189,9 @@ Emergency SOS dispatch, geofencing & alerts mobile app in Flutter.
 </table>
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="34%" valign="top" align="center">
 
-<img src="https://streak-stats.demolab.com?user=karnVen&mode=daily&theme=radical&hide_border=false&border_radius=5" width="100%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=karnVen&mode=daily&theme=radical&hide_border=false&border_radius=5" width="280" alt="GitHub Streak" />
 
 <br>
 <br>
@@ -201,20 +201,23 @@ Emergency SOS dispatch, geofencing & alerts mobile app in Flutter.
 <a href="https://x.com/karnven"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
 <a href="mailto:onemonth06@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
+<br>
+<br>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zMXk3bTNiY3dleXBhbGZyMWlzcWZhaHU0eWllaHZqeWFpbnFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif" width="85%" alt="coding gif" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zMXk3bTNiY3dleXBhbGZyMWlzcWZhaHU0eWllaHZqeWFpbnFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif" width="240" alt="coding gif" />
 
 <br>
 <br>
 
 <sub><kbd>MonkeyType</kbd> <code>🔥 198d Max • ⚡ 50d Cur • 🚀 98wpm Best</code></sub>
 
+<br>
 
-<img src="./monkey.png" width="100%" alt="Typing Heatmap" />
+<img src="./monkey.png" width="280" alt="Typing Heatmap" />
 
 <br>
 
-<img src="https://github-readme-stats-chi-khaki-27.vercel.app/api/top-langs/?username=karnVen&layout=compact&theme=radical&hide_border=false&border_radius=5&langs_count=8" width="100%" alt="Top Languages" />
+<img src="https://github-readme-stats-chi-khaki-27.vercel.app/api/top-langs/?username=karnVen&layout=compact&theme=radical&hide_border=false&border_radius=5&langs_count=8" width="280" alt="Top Languages" />
 
 </td>
 </tr>
