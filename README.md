@@ -91,7 +91,15 @@ A bit more about me:
 
 <img src="https://raw.githubusercontent.com/karnVen/karnVen/main/monkey.png" width="260" alt="Typing Heatmap" />
 
-<br>
+<br><br>
+
+<img src="https://raw.githubusercontent.com/karnVen/karnVen/main/reading.png" width="260" alt="Reading Activity Heatmap" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/karnVen/karnVen/main/health.png" width="260" alt="Health & Fitness Heatmap" />
+
+<br><br>
 
 <img src="https://github-readme-stats-chi-khaki-27.vercel.app/api/top-langs/?username=karnVen&layout=compact&theme=radical&hide_border=false&border_radius=5&langs_count=8" width="260" alt="Top Languages" />
 
