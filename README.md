@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm KarnVen 👋</h1>
+# <p align="center">Hi, I'm KarnVen 👋</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=T-Shaped+Full-Stack+Developer;AI+%26+Automation+Enthusiast;Creative+Problem+Solver;Hackathon+Enthusiast;Building+Fintech+Platforms+That+Ship;From+Idea+to+Production+Fast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=From+Idea+to+Production+Fast" alt="Typing SVG" />
 </p>
 
 A bit more about me:
@@ -13,12 +11,12 @@ A bit more about me:
 - 🏆 I'm an avid **hackathon participant** and a firm believer in learning by doing. I thrive under pressure and enjoy collaborating to bring ideas to life.
 - 🌱 Beyond the keyboard, I'm a lifelong learner. You can find me reading a new book, practicing calisthenics, learning a new song on the guitar, or experimenting in the kitchen
 
-<br>
+---
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -50,18 +48,18 @@ A bit more about me:
 
 <table width="100%">
 <tr>
-<td width="63%" valign="top">
+<td width="62%" valign="top">
 
 <h4>⚡ Experience</h4>
 
-<table width="100%" cellpadding="8">
+<table width="100%" cellpadding="6">
 <tr>
 <td width="100%" align="left">
 
 **🏢 [EasyTax Global IT Solutions](https://easytax.live)**<br>
 <sub>Developer · Bhamashah Techno Hub, Jaipur · Apr 2026 – Present</sub><br>
 ↳ Rebuilt Laravel 11 multi-portal platform used daily by 100s of agents.<br>
-↳ Engineered **[e-Mitra Integration](https://github.com/karnVen/eaystax_emitra)** with session-scoped financial cycles & Drupal site redesign.<br>
+↳ Engineered **[e-Mitra Integration](https://github.com/karnVen/eaystax_emitra)** with session-scoped financial cycles & Drupal redesign.<br>
 `Laravel 11` `PHP 8.3` `Drupal 10` `MySQL` `Alpine.js` `AWS`
 
 </td>
@@ -82,13 +80,13 @@ A bit more about me:
 
 <h4>🚀 Client & Freelance</h4>
 
-<table width="100%" cellpadding="8">
+<table width="100%" cellpadding="6">
 <tr>
 <td width="100%" align="left">
 
 🌿 **[ASMS Healthcare Platform](https://github.com/karnVen/asms-healthcare-platform)** &nbsp;[Live ↗](https://asms-iota.vercel.app/)<br>
 <sub>AYUSH Shubham Institute · Section-8 Non-Profit Trust</sub><br>
-Next.js 15 enterprise clinical portal, 36-state vector GIS map, 148 programmatic SEO routes & credential verification engine.<br>
+Next.js 15 clinical portal, 36-state GIS map, 148 SEO routes & credential verification.<br>
 `Next.js 15` `TypeScript` `Tailwind CSS` `Vercel Edge`
 
 </td>
@@ -98,7 +96,7 @@ Next.js 15 enterprise clinical portal, 36-state vector GIS map, 148 programmatic
 
 👗 **[Shree Shyam Designer](https://github.com/karnVen/shree-shyam-couture-platform)** &nbsp;[Live ↗](https://shree-shyam-designs.vercel.app/)<br>
 <sub>Luxury Ethnic Couture Atelier, Jaipur</sub><br>
-Serverless luxury e-commerce catalog featuring dynamic lookbook, direct WhatsApp conversational sales funnel & Neon Postgres.<br>
+Serverless luxury e-commerce catalog featuring dynamic lookbook & WhatsApp sales funnel.<br>
 `Next.js 15` `React 19` `Neon PostgreSQL` `Tailwind CSS`
 
 </td>
@@ -108,7 +106,7 @@ Serverless luxury e-commerce catalog featuring dynamic lookbook, direct WhatsApp
 
 🤝 **[Nasiba Foundation](https://github.com/karnVen/nasiba-foundation-welfare-platform)**<br>
 <sub>Humanitarian Welfare & Educational Trust</sub><br>
-Full-stack NGO platform with dynamic donation drives and internal 4-tier administrative ERP for staff attendance, leave approvals & payroll audits.<br>
+Full-stack NGO platform with donation drives & 4-tier admin ERP for staff & payroll audits.<br>
 `Next.js` `TypeScript` `Prisma ORM` `Stateless JWT`
 
 </td>
@@ -117,12 +115,12 @@ Full-stack NGO platform with dynamic donation drives and internal 4-tier adminis
 
 <h4>🛠️ Projects</h4>
 
-<table width="100%" cellpadding="8">
+<table width="100%" cellpadding="6">
 <tr>
 <td width="100%" align="left">
 
 🐚 **[kaiVen (ShellOrigin)](https://github.com/karnVen/ShellOrigin)**<br>
-Raw Unix shell engineered from scratch in C with POSIX process isolation, command pipelines, and terminal control.
+Raw Unix shell in C with POSIX process isolation, pipelines & terminal control.
 
 </td>
 </tr>
@@ -130,7 +128,7 @@ Raw Unix shell engineered from scratch in C with POSIX process isolation, comman
 <td width="100%" align="left">
 
 🤖 **[GitPost](https://github.com/karnVen/GitPost)**<br>
-Automated developer pipeline that turns git commit metadata and repository diffs into structured LinkedIn engineering posts.
+Automated pipeline turning git commits & diffs into structured LinkedIn engineering posts.
 
 </td>
 </tr>
@@ -138,7 +136,7 @@ Automated developer pipeline that turns git commit metadata and repository diffs
 <td width="100%" align="left">
 
 ⚡ **[NichijouVen](https://github.com/karnVen/NichijouVen)**<br>
-Cybernetic personal Life OS & habit mastery center with Prisma ORM, Docker containerization, and daily analytics.
+Personal Life OS & habit mastery center with Prisma ORM, Docker & daily analytics.
 
 </td>
 </tr>
@@ -146,12 +144,12 @@ Cybernetic personal Life OS & habit mastery center with Prisma ORM, Docker conta
 
 <h4>🏆 Hackathons & Early Builds</h4>
 
-<table width="100%" cellpadding="8">
+<table width="100%" cellpadding="6">
 <tr>
 <td width="100%" align="left">
 
 🛰️ **[GreenClaim Verify](https://github.com/KhushChouhan/greenclaim-verify)** &nbsp;<sub>*(Hackathon Project)*</sub><br>
-Auditing global carbon offset and tree-planting initiatives utilizing Copernicus Sentinel-2 satellite data and Cesium 3D geospatial rendering.
+Auditing carbon offsets & tree planting with Copernicus Sentinel-2 & Cesium 3D geospatial.
 
 </td>
 </tr>
@@ -159,7 +157,7 @@ Auditing global carbon offset and tree-planting initiatives utilizing Copernicus
 <td width="100%" align="left">
 
 🎓 **[EduVen](https://github.com/karnVen/EduVen)** &nbsp;<sub>*(Built in 1st Year)*</sub><br>
-Gamified interactive educational portal transforming static textbook PDFs into engaging web learning modules.
+Interactive educational portal transforming static textbook PDFs into web learning modules.
 
 </td>
 </tr>
@@ -167,7 +165,7 @@ Gamified interactive educational portal transforming static textbook PDFs into e
 <td width="100%" align="left">
 
 🐾 **[PAWRESCUE](https://github.com/karnVen/PAWRESCUE)** &nbsp;<sub>*(Built in 1st Year)*</sub><br>
-Responsive pet adoption and animal rescue coordination landing platform connecting local shelters with adopters.
+Responsive pet adoption & animal rescue platform connecting local shelters with adopters.
 
 </td>
 </tr>
@@ -175,16 +173,16 @@ Responsive pet adoption and animal rescue coordination landing platform connecti
 <td width="100%" align="left">
 
 🛡️ **[Women Safety Dashboard](https://github.com/karnVen/womenSeftyDashboard)** &nbsp;<sub>*(Built in 1st Year)*</sub><br>
-Mobile emergency safety application featuring one-tap SOS dispatch, live geofencing, and emergency alerts in Flutter.
+Mobile emergency safety application with one-tap SOS dispatch & geofencing in Flutter.
 
 </td>
 </tr>
 </table>
 
 </td>
-<td width="37%" valign="top" align="center">
+<td width="38%" valign="top" align="center">
 
-<img src="https://streak-stats.demolab.com?user=karnVen&mode=daily&theme=radical&hide_border=false&border_radius=5" width="100%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=karnVen&mode=daily&theme=radical&hide_border=false&border_radius=5" width="300" alt="GitHub Streak" />
 
 <br>
 <br>
@@ -197,7 +195,7 @@ Mobile emergency safety application featuring one-tap SOS dispatch, live geofenc
 <br>
 <br>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zMXk3bTNiY3dleXBhbGZyMWlzcWZhaHU0eWllaHZqeWFpbnFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif" width="85%" alt="coding gif" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0zMXk3bTNiY3dleXBhbGZyMWlzcWZhaHU0eWllaHZqeWFpbnFhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubLIcHvitTa36/giphy.gif" width="240" alt="coding gif" />
 
 <br>
 <br>
@@ -206,11 +204,11 @@ Mobile emergency safety application featuring one-tap SOS dispatch, live geofenc
 
 <br>
 
-<img src="./monkey.png" width="100%" alt="Typing Heatmap" />
+<img src="./monkey.png" width="300" alt="Typing Heatmap" />
 
 <br>
 
-<img src="https://github-readme-stats-chi-khaki-27.vercel.app/api/top-langs/?username=karnVen&layout=compact&theme=radical&hide_border=false&border_radius=5&langs_count=8" width="100%" alt="Top Languages" />
+<img src="https://github-readme-stats-chi-khaki-27.vercel.app/api/top-langs/?username=karnVen&layout=compact&theme=radical&hide_border=false&border_radius=5&langs_count=8" width="300" alt="Top Languages" />
 
 </td>
 </tr>
