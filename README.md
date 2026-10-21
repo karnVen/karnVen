@@ -77,8 +77,12 @@ A bit more about me:
 <sub><kbd>MonkeyType</kbd> <code>🔥 198d Max • ⚡ 50d Cur • 🚀 98wpm Best</code></sub><br>
 <img src="https://raw.githubusercontent.com/karnVen/karnVen/main/monkey.png" width="260" alt="Typing Heatmap" /><br>
 <img src="https://raw.githubusercontent.com/karnVen/karnVen/main/reading.png" width="260" alt="Reading Activity Heatmap" /><br>
-<img src="https://raw.githubusercontent.com/karnVen/karnVen/main/health.png" width="260" alt="Health & Fitness Heatmap" /><br><br>
-<img src="https://github-readme-stats-chi-khaki-27.vercel.app/api/top-langs/?username=karnVen&layout=compact&theme=radical&hide_border=false&border_radius=5&langs_count=8" width="260" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/karnVen/karnVen/main/health.png" width="260" alt="Health & Fitness Heatmap" /><br>
+<img src="https://raw.githubusercontent.com/karnVen/karnVen/main/anki.png" width="260" alt="Anki SRS Heatmap" /><br><br>
+<img src="https://github-readme-stats-chi-khaki-27.vercel.app/api?username=karnVen&theme=radical&show_icons=true&hide_border=false&border_radius=5" width="260" alt="GitHub Stats" /><br><br>
+<img src="https://github-readme-stats-chi-khaki-27.vercel.app/api/top-langs/?username=karnVen&theme=radical&hide_border=false&border_radius=5&langs_count=6" width="260" alt="Top Languages Bar" /><br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karnVen&theme=radical" width="260" alt="Language Distribution Donut" /><br><br>
+<img src="https://quotes-github-readme.vercel.app/api/type=horizontal&theme=radical" width="260" alt="Daily Dev Quote" />
 
 </td>
 </tr>
