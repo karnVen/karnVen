@@ -80,9 +80,9 @@ A bit more about me:
 <img src="https://raw.githubusercontent.com/karnVen/karnVen/main/health.png" width="260" alt="Health & Fitness Heatmap" /><br>
 <img src="https://raw.githubusercontent.com/karnVen/karnVen/main/anki.png" width="260" alt="Anki SRS Heatmap" /><br><br>
 <img src="https://github-readme-stats-chi-khaki-27.vercel.app/api?username=karnVen&theme=radical&show_icons=true&hide_border=false&border_radius=5" width="260" alt="GitHub Stats" /><br><br>
-<img src="https://github-readme-stats-chi-khaki-27.vercel.app/api/top-langs/?username=karnVen&theme=radical&hide_border=false&border_radius=5&langs_count=6" width="260" alt="Top Languages Bar" /><br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karnVen&theme=radical" width="260" alt="Language Distribution Donut" /><br><br>
-<img src="https://quotes-github-readme.vercel.app/api/type=horizontal&theme=radical" width="260" alt="Daily Dev Quote" />
+<img src="https://github-readme-stats-chi-khaki-27.vercel.app/api/top-langs/?username=karnVen&layout=compact&theme=radical&hide_border=false&border_radius=5&langs_count=8" width="260" alt="Top Languages" /><br><br>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2Mydm0xcm5ibXh4NGNhbDZtdWdhMnB3d2t1dDR1MWw0MnludnVsNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9i9fRaNhHfu92/giphy.gif" width="260" alt="aesthetic gif" /><br><br>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem94ZzI3dm90NHJ6YmtkaXpucmhya3R5a3htb3l6NWFqc3k2ajJtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzMHYQJnuKbenMrXu9/giphy.gif" width="260" alt="retro anime gif" />
 
 </td>
 </tr>
