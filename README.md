@@ -54,9 +54,10 @@ A bit more about me:
 
 **🏢 [EasyTax Global IT Solutions](https://easytax.live)**<br>
 <sub>Developer · Bhamashah Techno Hub, Jaipur · Apr 2026 – Present</sub><br>
-↳ Rebuilt Laravel 11 multi-portal platform used daily by 100s of agents.<br>
-↳ Drupal 10 component-driven site redesign: SEO · lead-gen pipeline · payment flows.<br>
-`Laravel 11` `PHP 8.3` `Drupal 10` `MySQL` `Alpine.js` `AWS`
+↳ Drupal 10 corporate platform (`easytax.live`) & Laravel 12 multi-portal B2B filing engine.<br>
+↳ Architected Rajasthan e-Mitra kiosk gateway with checksum verification & session scoping.<br>
+↳ Case study: **[EasyTax Enterprise Ecosystem](https://github.com/karnVen/easytax-enterprise-ecosystem)** · **[Mobile Platform](https://github.com/karnVen/Easytax_AppDev)**<br>
+`Laravel 12` `PHP 8.3` `Drupal 10` `Next.js` `TypeScript` `MySQL` `Alpine.js` `AWS`
 
 **🌐 [Savings Yogi](https://savingsyogi.com)**<br>
 <sub>Technical Solutions Intern · Remote (Frisco, TX) · Feb – Mar 2026</sub><br>
